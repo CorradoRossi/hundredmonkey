@@ -70,3 +70,9 @@ model Project {
   updatedAt DateTime @updatedAt
   name      String
 }
+
+model Yes {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
