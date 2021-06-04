@@ -1,5 +1,5 @@
 {
-  "name": "hundred-monkey-two",
+  "name": "hundred-two",
   "version": "1.0.0",
   "scripts": {
     "dev": "blitz dev",
